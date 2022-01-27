@@ -1,0 +1,3 @@
+*.pyc
+**/audio_files
+.DS_Store
